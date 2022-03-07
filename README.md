@@ -11,10 +11,17 @@ I’m currently working on bringing humanity new ideas.
 - - ❤️‍🩹 health,
 - 🐈 and cats.
 
+<a href="https://www.linkedin.com/in/halit-vural">
+  <img src="linkedin.svg" height="30">
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/halit-vural) <br>
-[ResearchGate](https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L)   <br>
-[Scholar](https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en) <br>
+<a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
+  <img src="rg_researchgate.png" height="30" >
+</a>
+
+<a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
+  <img src="scholar.png" height="30" >
+</a>
 
 <!--
 **hvbosna/hvbosna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
