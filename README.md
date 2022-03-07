@@ -13,8 +13,8 @@ I’m currently working on bringing humanity new ideas.
 
 
 [LinkedIn](https://www.linkedin.com/in/halit-vural) <br>
-[ResearchGate](https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L)
-
+[ResearchGate](https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L)   <br>
+[Scholar](https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en) <br>
 
 <!--
 **hvbosna/hvbosna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
