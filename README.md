@@ -8,7 +8,7 @@ I’m currently working on bringing humanity new ideas.
 - - - - - 📫 You can reach me by clicking the links below 👇
 - - - - 🎨 I am good at talking about art,
 - - - 🏛️  history,
-- - 🫀 health,
+- - :heart health,
 - 🐈 and cats.
 
 
