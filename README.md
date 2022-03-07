@@ -12,6 +12,8 @@ I’m currently working on bringing humanity new ideas.
 - 🐈 and cats.
 
 
+[LinkedIn](https://www.linkedin.com/in/halit-vural) <br>
+[ResearchGate](https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L)
 
 
 <!--
