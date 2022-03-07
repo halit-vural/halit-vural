@@ -8,11 +8,13 @@ I’m currently working on bringing humanity new ideas.
 - - - - - 📫 You can reach me by clicking the links below 👇
 - - - - 🎨 I am good at talking about art,
 - - - 🏛️  history,
-- - :heart health,
+- - ❤️‍🩹 health,
 - 🐈 and cats.
 
 
-
+[LinkedIn](https://www.linkedin.com/in/halit-vural) <br>
+[ResearchGate](https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L)   <br>
+[Scholar](https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en) <br>
 
 <!--
 **hvbosna/hvbosna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
