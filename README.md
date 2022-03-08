@@ -7,8 +7,8 @@ I’m currently working on bringing humanity new ideas.
 - - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
 - - - - - 📫 You can reach me by clicking the links below 👇
 - - - - 🎨 I am good at talking about art,
-- - - 🏛️  history,
-- - ❤️‍🩹 health,
+- - - 🏛️  history, historical events, culture,
+- - ❤️‍🩹 health, sports, hobbies,
 - 🐈 and cats.
 
 <a href="https://www.linkedin.com/in/halit-vural">
