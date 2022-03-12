@@ -12,15 +12,15 @@ I’m currently working on bringing humanity new ideas.
 - 🐈 and cats.
 
 <a href="https://www.linkedin.com/in/halit-vural">
-  <img src="linkedin.svg" height="30">
+  <img src="linkedin.svg" height="20">
 </a>
 
 <a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
-  <img src="rg_researchgate.png" height="30" >
+  <img src="rg_researchgate.png" height="20" >
 </a>
 
 <a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
-  <img src="scholar.png" height="30" >
+  <img src="scholar.png" height="20" >
 </a>
 
 <!--
