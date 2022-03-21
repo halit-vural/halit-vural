@@ -3,17 +3,17 @@
 ### Hi folks! 👋 I am Halit Vural.
 
 <a href="https://www.linkedin.com/in/halit-vural">
-  <img src="linkedin.svg" height="20">
+  <img src="linkedin.svg" height="30">
 </a>
 
 <a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
-  <img src="rg_researchgate.png" height="20" >
+  <img src="rg_researchgate.png" height="30" >
 </a>
+
 
 <a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
-  <img src="scholar.png" height="20" >
+  <img src="scholar.png" height="30" >
 </a>
-
 
 I’m currently working on bringing humanity new ideas.
 - 🌱 I’m currently learning how I can be more and more productive.
@@ -26,17 +26,15 @@ I’m currently working on bringing humanity new ideas.
 - - ❤️‍🩹 health, sports, hobbies,
 - 🐈 and cats.
 
------
+<hr>
 
 ## My Github Stats
 ![](https://komarev.com/ghpvc/?username=hvbosna)
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="40%"/>
 
-<br>
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbosna&theme=chartreuse-dark" alt="my commit status" width="49%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbosna&theme=chartreuse-dark" alt="my commit status" width="40%" />
 
 
 
