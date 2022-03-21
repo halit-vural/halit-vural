@@ -32,9 +32,9 @@ I’m currently working on bringing humanity new ideas.
 ![](https://komarev.com/ghpvc/?username=hvbosna)
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="40%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="45%"/>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbosna&theme=chartreuse-dark" alt="my commit status" width="40%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbosna&theme=chartreuse-dark" alt="my commit status" width="45%" />
 
 
 
