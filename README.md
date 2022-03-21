@@ -26,9 +26,14 @@ I’m currently working on bringing humanity new ideas.
 - - ❤️‍🩹 health, sports, hobbies,
 - 🐈 and cats.
 
+-----
 
-
+## My Github Stats
 ![](https://komarev.com/ghpvc/?username=hvbosna)
+<br>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+
 
 
 
