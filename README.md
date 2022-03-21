@@ -1,15 +1,6 @@
-### Hi human! 👋
 
-I’m currently working on bringing humanity new ideas.
-- 🌱 I’m currently learning how I can be more and more productive.
-- - 👯 I’m looking to collaborate on Machine Learning
-- - - 🤔 I’m looking for help with understanding scientific data
-- - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
-- - - - - 📫 You can reach me by clicking the links below 👇
-- - - - 🎨 I am good at talking about art,
-- - - 🏛️  history, historical events, culture,
-- - ❤️‍🩹 health, sports, hobbies,
-- 🐈 and cats.
+
+### Hi folks! 👋 I am Halit Vural.
 
 <a href="https://www.linkedin.com/in/halit-vural">
   <img src="linkedin.svg" height="20">
@@ -22,6 +13,20 @@ I’m currently working on bringing humanity new ideas.
 <a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
   <img src="scholar.png" height="20" >
 </a>
+
+
+I’m currently working on bringing humanity new ideas.
+- 🌱 I’m currently learning how I can be more and more productive.
+- - 👯 I’m looking to collaborate on Machine Learning
+- - - 🤔 I’m looking for help with understanding scientific data
+- - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
+- - - - - 📫 You can reach me by clicking the links below 👇
+- - - - 🎨 I am good at talking about art,
+- - - 🏛️  history, historical events, culture,
+- - ❤️‍🩹 health, sports, hobbies,
+- 🐈 and cats.
+
+
 
 ![](https://komarev.com/ghpvc/?username=hvbosna)
 
