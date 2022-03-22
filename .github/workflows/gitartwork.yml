@@ -10,10 +10,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v2
-       - uses: hvbosna/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: hvbosna
             # Text on contribution graph 
             text: HAPPY SCIENCE
-       - uses: hvbosna/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
