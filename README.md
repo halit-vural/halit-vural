@@ -17,12 +17,12 @@
 
 I’m currently working on bringing humanity new ideas.
 - 🌱 I’m currently learning how I can be more and more productive.
-- - 👯 I’m looking to collaborate on Machine Learning
+- - 👯 I’m looking to collaborate on Machine Learning tasks
 - - - 🤔 I’m looking for help with understanding scientific data
 - - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
 - - - - - 📫 You can reach me by clicking the links above ☝️
 - - - - 🎨 I am good at talking about art,
-- - - 🏛️  history, historical events, culture,
+- - - 🏛️  history, events, and culture,
 - - ❤️‍🩹 health, sports, hobbies,
 - 🐈 and cats.
 
@@ -30,6 +30,7 @@ I’m currently working on bringing humanity new ideas.
 
 ## My Github Stats
 ![](https://komarev.com/ghpvc/?username=hvbosna)
+
 <br>
 
  <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="45%"/>
