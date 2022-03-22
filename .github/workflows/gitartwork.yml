@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: hvbosna
             # Text on contribution graph 
-            text: <3 SCIENCE
+            text: HAPPY SCIENCE
        - uses: hvbosna/simple-push-action@v1
