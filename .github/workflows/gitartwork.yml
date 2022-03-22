@@ -1,0 +1,19 @@
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+   workflow_dispatch:
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v2
+       - uses: hvbosna/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: hvbosna
+            # Text on contribution graph 
+            text: <3 SCIENCE
+       - uses: hvbosna/simple-push-action@v1
