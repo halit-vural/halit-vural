@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: jasineri
             # Text on contribution graph 
-            text: HAPPY SCIENCE
+            text: IT SCIENCE
        - uses: jasineri/simple-push-action@v1
