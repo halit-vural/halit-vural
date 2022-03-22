@@ -44,6 +44,8 @@ I’m currently working on bringing humanity new ideas.
 
 
 
+![gitartwork](gitartwork.svg)
+
 
 <!--
 **hvbosna/hvbosna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
