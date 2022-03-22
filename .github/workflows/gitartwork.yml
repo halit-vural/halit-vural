@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: jasineri
             # Text on contribution graph 
-            text: IT SCIENCE
+            text: HAL IT
        - uses: jasineri/simple-push-action@v1
