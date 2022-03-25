@@ -1,19 +1,21 @@
 
 
 ### Hi folks! 👋 I am Halit Vural.
+<table align="right"><tr> 
+    <td><a href="https://www.linkedin.com/in/halit-vural">
+           <img src="linkedin.svg" height="30">
+        </a>
+    </td>
+    <td><a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
+          <img src="rg_researchgate.png" height="30" >
+        </a>
+    </td>
+    <td><a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
+           <img src="scholar.png" height="30" >
+        </a>
+    </td></tr>
+</table>
 
-<a href="https://www.linkedin.com/in/halit-vural">
-  <img src="linkedin.svg" height="30">
-</a>
-
-<a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
-  <img src="rg_researchgate.png" height="30" >
-</a>
-
-
-<a href="https://scholar.google.com/citations?user=-ajYhzEAAAAJ&hl=en">
-  <img src="scholar.png" height="30" >
-</a>
 
 I’m currently working on bringing humanity new ideas.
 - 🌱 I’m currently learning how I can be more and more productive.
