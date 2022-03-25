@@ -39,10 +39,6 @@ I’m currently working on bringing humanity new ideas.
 
 
 
-
-![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
-
 ![](it_guy.gif)
 
 
