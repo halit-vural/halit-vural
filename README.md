@@ -17,16 +17,16 @@
 </table>
 
 
-I’m currently working on bringing humanity new ideas.
-- 🌱 I’m currently learning how I can be more and more productive.
+I’m currently working on bringing humanity new ideas
+- 🌱 when trying how I can be more and more productive.
 - - 👯 I’m looking to collaborate on Machine Learning tasks
 - - - 🤔 I’m looking for help with understanding scientific data
 - - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
-- - - - - 📫 You can reach me by clicking the links above ☝️
-- - - - 🎨 I am good at talking about art,
-- - - 🏛️  history, events, and culture,
-- - ❤️‍🩹 health, sports, hobbies,
-- 🐈 and cats.
+- - - - - 📫 You can reach me out by clicking the links above ☝️
+- - - - 🎨 I am good at talking about art and artistic work,
+- - - 🏛️  history, events, and culture, human behaviours,
+- - ❤️‍🩹 health, sports, hobbies, child education and..
+- 🐈 and cats.They are adorable, cute and friendly.
 
 <hr>
 
