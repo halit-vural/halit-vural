@@ -21,7 +21,7 @@ I’m currently working on bringing humanity new ideas
 - 🌱 when trying how I can be more and more productive.
 - - 👯 I’m looking to collaborate on Machine Learning tasks
 - - - 🤔 I’m looking for help with understanding scientific data
-- - - - 💬 Ask me about how I ruined the things and tackled with the Algorithms
+- - - - 💬 Ask me about how I ruined the things with the Algorithms
 - - - - - 📫 You can reach me out by clicking the links above ☝️
 - - - - 🎨 I am good at talking about art and artistic work,
 - - - 🏛️  history, events, and culture, human behaviours,
