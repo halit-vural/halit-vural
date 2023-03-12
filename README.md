@@ -6,7 +6,7 @@
            <img src="linkedin.svg" height="30">
         </a>
     </td>
-    <td><a href="https://www.researchgate.net/profile/H-A-L-I-T-V-U-R-A-L">
+    <td><a href="https://www.researchgate.net/profile/Halit-Vural">
           <img src="rg_researchgate.png" height="30" >
         </a>
     </td>
@@ -35,7 +35,7 @@ I’m currently working on bringing humanity new ideas
 
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=hait-vural&theme=chartreuse-dark" alt="my github stats" width="45%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=halit-vural&theme=chartreuse-dark" alt="my github stats" width="45%"/>
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halit-vural&theme=chartreuse-dark" alt="my commit status" width="45%" />
 
