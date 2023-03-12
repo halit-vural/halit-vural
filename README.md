@@ -31,13 +31,13 @@ I’m currently working on bringing humanity new ideas
 <hr>
 
 ## My Github Stats
-![](https://komarev.com/ghpvc/?username=hvbosna)
+![](https://komarev.com/ghpvc/?username=halit-vural)
 
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=hvbosna&theme=chartreuse-dark" alt="my github stats" width="45%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hait-vural&theme=chartreuse-dark" alt="my github stats" width="45%"/>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvbosna&theme=chartreuse-dark" alt="my commit status" width="45%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=halit-vural&theme=chartreuse-dark" alt="my commit status" width="45%" />
 
 
 
@@ -49,7 +49,7 @@ I’m currently working on bringing humanity new ideas
 
 
 <!--
-**hvbosna/hvbosna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**halit-vural/halit-vural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
