@@ -30,6 +30,10 @@ I’m currently working on bringing humanity new ideas
 
 <hr>
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="halit-vural" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ba.linkedin.com/in/halit-vural?trk=profile-badge">Halit Vural</a></div>
+
+              
 ## My Github Stats
 ![](https://komarev.com/ghpvc/?username=halit-vural)
 
